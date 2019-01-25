@@ -289,5 +289,47 @@ ul{
 	max-width: 500px
 }
 
+.footer {
+	padding: 2% 0 0 5%;
+	background-color: #007800;
+	color:white;
+}
+
+.footer-image {
+	min-width: 100%;
+	background-color: #007800;
+	color:white;
+}
+
+.footer-more{
+	font-size: 24px;
+	padding-top:2%;
+	
+}
+
+.footer-more-info{
+	padding:3% 0 2% 0;
+	margin:;
+	font-size: 12px;
+}
 
 
+.footer-contact{
+	padding-bottom: 5%;
+	padding-left: 50%;
+	font-size: 24px;
+}
+
+.footer-contact-list{
+	padding-left: 45%;
+}
+
+.footer-contact-list span{
+	font-family: Arial, helvetica, Sans-Serif;
+	font-size: 20px;
+}
+
+
+.copyright{
+	padding-top: 2%;
+}
